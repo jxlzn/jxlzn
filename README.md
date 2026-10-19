@@ -2,13 +2,13 @@
 
 Data products, newsroom chart systems, and interactive visualization.
 
-**Portfolio:** [jxlzn.github.io/zuoweili.github.io](https://jxlzn.github.io/zuoweili.github.io/)
+**Portfolio:** [jxlzn.github.io](https://jxlzn.github.io/)
 
 ## Featured
 
 | Project | What it is |
 |---|---|
-| [Newsroom chart automation](https://jxlzn.github.io/zuoweili.github.io/case-studies/chart-automation.html) | Case study — Python package for print PDF + Datawrapper + agent APIs |
+| [Newsroom chart automation](https://jxlzn.github.io/case-studies/chart-automation.html) | Case study — Python package for print PDF + Datawrapper + agent APIs |
 | [asean-intelligence](https://github.com/jxlzn/asean-intelligence) | Interactive regional report ([live](https://asean-intelligence.vercel.app)) |
 | [sti60](https://github.com/jxlzn/sti60) | Market data UI ([live](https://sti60.vercel.app)) |
 | [universities-2](https://github.com/jxlzn/universities-2) | Svelte explorer ([live](https://universities-2.vercel.app)) |
@@ -23,5 +23,5 @@ Data products, newsroom chart systems, and interactive visualization.
 
 ## Links
 
-- Portfolio site: https://jxlzn.github.io/zuoweili.github.io/
+- Portfolio site: https://jxlzn.github.io/
 - GitHub: https://github.com/jxlzn

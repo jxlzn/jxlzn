@@ -1,6 +1,6 @@
 # David Li (`jxlzn`)
 
-Data products, newsroom chart systems, and interactive visualization.
+AI product & solutions — shipping data products, automation, and agent-ready systems.
 
 **Portfolio:** [jxlzn.github.io](https://jxlzn.github.io/)
 
@@ -16,10 +16,11 @@ Data products, newsroom chart systems, and interactive visualization.
 
 ## Focus
 
-- Chart / PDF rendering systems with visual regression
-- Newsroom automation (recipes, skins, fixtures)
-- Interactive data storytelling (D3, Svelte)
-- APIs and MCP surfaces for agents
+- AI product discovery & solution design
+- Data platforms and newsroom automation
+- Agent-ready APIs / MCP surfaces
+- Eval, quality gates, and production delivery
+- Interactive data storytelling
 
 ## Links
 
